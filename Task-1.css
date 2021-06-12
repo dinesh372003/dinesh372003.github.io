@@ -1,0 +1,264 @@
+h1/*designing the heading*/
+{
+    text-align: center;
+    color: red;
+    font-size:40px;
+    background-color:black;
+}
+/*alligning the entire thing center and giving the background as black*/
+body
+{
+    text-align:center;
+    background-color:black;
+}
+/*designing the buttons as cube and grid*/
+.c1
+{
+    height: 60px;
+    width: 60px;
+    display: inline-flex;
+}
+.c2
+{
+    height: 60px;
+    width: 60px;
+    display: inline-flex;
+}
+.c3
+{
+    height: 60px;
+    width: 60px;
+    display: inline-flex;
+}
+.c4
+{
+    height: 60px;
+    width: 60px;
+    display: inline-flex;
+
+}
+.c5
+{
+    height: 60px;
+    width: 60px;
+    display: inline-flex;
+}
+.c6
+{
+    height: 60px;
+    width: 60px;
+    display: inline-flex;
+
+}
+.c7
+{
+    height: 60px;
+    width: 60px;   
+    display: inline-flex;
+}
+.c8
+{
+    height: 60px;
+    width: 60px;
+    display: inline-flex;
+}
+.c9
+{
+    height: 60px;
+    width: 60px;
+    display: inline-flex;
+}
+/*Designing the buttons of 5*5 grid as cube and grid*/
+.a1
+{
+    height: 60px;
+    width: 60px;
+    display: inline-flex;
+    border: 1px solid #34c1e5;
+}
+.a2
+{
+    height: 60px;
+    width: 60px;
+    display: inline-flex;
+    border: 1px solid #34c1e5;
+}
+.a3
+{
+    height: 60px;
+    width: 60px;
+    display: inline-flex;
+    border: 1px solid #34c1e5;
+}
+.a4
+{
+    height: 60px;
+    width: 60px;
+    display: inline-flex;
+    border: 1px solid #34c1e5;
+}
+.a5
+{
+    height: 60px;
+    width: 60px;
+    display: inline-flex;
+    border: 1px solid #34c1e5;
+}
+.a6
+{
+    height: 60px;
+    width: 60px;
+    display: inline-flex;
+    border: 1px solid #34c1e5;
+}
+.a7
+{
+    height: 60px;
+    width: 60px;
+    display: inline-flex; 
+    border: 1px solid #34c1e5;
+}
+.a8
+{
+    height: 60px;
+    width: 60px;
+    display: inline-flex;
+    border: 1px solid #34c1e5;
+}
+.a9
+{
+    height: 60px;
+    width: 60px;
+    display: inline-flex;
+    border: 1px solid #34c1e5;
+}
+.a10
+{
+    height: 60px;
+    width: 60px;
+    display: inline-flex;
+    border: 1px solid #34c1e5;
+}
+.a11
+{
+    height:60px;
+    width: 60px;
+    display: inline-flex;
+    border: 1px solid #34c1e5;
+}
+.a12
+{
+    height: 60px;
+    width: 60px;
+    display: inline-flex;
+    border: 1px solid #34c1e5;
+}
+.a13
+{
+    height: 60px;
+    width: 60px;
+    display: inline-flex;
+    border: 1px solid #34c1e5;
+}
+.a14
+{
+    height: 60px;
+    width: 60px;
+    display: inline-flex;
+    border: 1px solid #34c1e5;
+}
+.a15
+{
+    height: 60px;
+    width: 60px;
+    display: inline-flex;
+    border: 1px solid #34c1e5;
+}
+.a16
+{
+    height: 60px;
+    width: 60px;
+    display: inline-flex;
+    border: 1px solid #34c1e5;
+}
+.a17
+{
+    height: 60px;
+    width: 60px;
+    display: inline-flex;
+    border: 1px solid #34c1e5;
+}
+.a18
+{
+    height: 60px;
+    width: 60px;
+    display: inline-flex;
+    border: 1px solid #34c1e5;
+}
+.a19
+{
+    height: 60px;
+    width: 60px;
+    display: inline-flex;
+    border: 1px solid #34c1e5;
+}
+.a20
+{
+    height: 60px;
+    width: 60px;
+    display: inline-flex;
+    border: 1px solid #34c1e5;
+}
+.a21
+{
+    height: 60px;
+    width: 60px;
+    display: inline-flex;
+    border: 1px solid #34c1e5;
+}
+.a22
+{
+    height: 60px;
+    width: 60px;
+    display: inline-flex;
+    border: 1px solid #34c1e5;
+}
+.a23
+{
+    height: 60px;
+    width: 60px;
+    display: inline-flex;
+    border: 1px solid #34c1e5;
+}
+.a24
+{
+    height: 60px;
+    width: 60px;
+    display: inline-flex;
+    border: 1px solid #34c1e5;
+}
+.a25
+{
+    height: 60px;
+    width: 60px;
+    display: inline-flex;
+    border: 1px solid #34c1e5;
+}
+/*Designing the background of 5*5 grids background*/
+.play_area
+{
+    background-color: grey;
+    display: inline-block;
+    height: 315px;
+    padding:10px 10px 30px 10px;    
+}
+/*Designing the RESET button*/
+.quit
+{
+    text-align: center;
+    height: 40px;
+    width: 80px;
+    font-size: 20px;
+    background-color: rgb(22, 223, 22);
+    color:white;
+}
