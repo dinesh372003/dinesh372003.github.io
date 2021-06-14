@@ -247,7 +247,6 @@ body
 /*Designing the background of 5*5 grids background*/
 .play_area
 {
-    width:25%;
     background-color: grey;
     display: inline-block;
     height: 315px;
