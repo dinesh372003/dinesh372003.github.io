@@ -1,0 +1,49 @@
+h1
+{
+    text-align: top;
+    color:white;
+    font-size: 75px;
+    vertical-align: text-top;
+   
+}
+
+
+/* Style the video: 100% width and height to cover the entire window */
+#myVideo {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    min-width: 100%;
+    min-height: 100%;
+  }
+
+  /* Add some content at the bottom of the video/page */
+  .content {
+    position: relative;
+   text-align: center;
+   
+    color: #f1f1f1;
+    width: 100%;
+    padding: 0px;
+  }
+
+  .button1
+  {
+    width: 200px;
+    font-size: 30px;
+    padding: 10px;
+    border: none;
+    background: rgb(6, 42, 245);
+    color: white;
+    cursor: pointer;
+  }
+  
+  .button1:hover {
+    background:transparent;
+    color: black;
+  }
+  .Score
+  {
+    color:white;
+    font-size: 30px;
+  }
