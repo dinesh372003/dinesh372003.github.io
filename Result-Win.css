@@ -1,9 +1,9 @@
 h1
 {
-    text-align: center;
+    text-align: top;
     color:white;
     font-size: 75px;
-    
+    vertical-align: text-top;
    
 }
 
@@ -16,10 +16,10 @@ h1
     min-width: 100%;
     min-height: 100%;
   }
-  
+
   /* Add some content at the bottom of the video/page */
   .content {
-    position: fixed;
+    position: relative;
    text-align: center;
    
     color: #f1f1f1;

@@ -1,4 +1,5 @@
-h1/*designing the heading*/
+/*style for the heading*/
+h1
 {
     text-align: center;
     color: red;
@@ -12,241 +13,24 @@ body
     background-color:black;
 }
 /*designing the buttons as cube and grid*/
-.c1
+.c1,.c2,.c3,.c4,.c5,.c6,.c7,.c8,.c9
 {
     height: 60px;
     width: 60px;
-    display: inline-flex;
-}
-.c2
-{
-    height: 60px;
-    width: 60px;
-    display: inline-flex;
-}
-.c3
-{
-    height: 60px;
-    width: 60px;
-    display: inline-flex;
-}
-.c4
-{
-    height: 60px;
-    width: 60px;
-    display: inline-flex;
-
-}
-.c5
-{
-    height: 60px;
-    width: 60px;
-    display: inline-flex;
-}
-.c6
-{
-    height: 60px;
-    width: 60px;
-    display: inline-flex;
-
-}
-.c7
-{
-    height: 60px;
-    width: 60px;   
-    display: inline-flex;
-}
-.c8
-{
-    height: 60px;
-    width: 60px;
-    display: inline-flex;
-}
-.c9
-{
-    height: 60px;
-    width: 60px;
-    display: inline-flex;
+    display: inline-block;
 }
 /*Designing the buttons of 5*5 grid as cube and grid*/
-.a1
-{
-    height: 60px;
-    width: 60px;
-    display: inline-flex;
-    border: 1px solid #34c1e5;
-}
-.a2
-{
-    height: 60px;
-    width: 60px;
-    display: inline-flex;
-    border: 1px solid #34c1e5;
-}
-.a3
-{
-    height: 60px;
-    width: 60px;
-    display: inline-flex;
-    border: 1px solid #34c1e5;
-}
-.a4
-{
-    height: 60px;
-    width: 60px;
-    display: inline-flex;
-    border: 1px solid #34c1e5;
-}
-.a5
-{
-    height: 60px;
-    width: 60px;
-    display: inline-flex;
-    border: 1px solid #34c1e5;
-}
-.a6
-{
-    height: 60px;
-    width: 60px;
-    display: inline-flex;
-    border: 1px solid #34c1e5;
-}
-.a7
-{
-    height: 60px;
-    width: 60px;
-    display: inline-flex; 
-    border: 1px solid #34c1e5;
-}
-.a8
-{
-    height: 60px;
-    width: 60px;
-    display: inline-flex;
-    border: 1px solid #34c1e5;
-}
-.a9
-{
-    height: 60px;
-    width: 60px;
-    display: inline-flex;
-    border: 1px solid #34c1e5;
-}
-.a10
-{
-    height: 60px;
-    width: 60px;
-    display: inline-flex;
-    border: 1px solid #34c1e5;
-}
-.a11
+.a1,.a2,.a3,.a4,.a5,.a6,.a7,.a8,.a9,.a10,.a11,.a12,.a13,.a14,.a15,.a16,.a17,.a18,.a19,.a20,.a21,.a22,.a23,.a24,.a25
 {
     height:60px;
     width: 60px;
-    display: inline-flex;
-    border: 1px solid #34c1e5;
-}
-.a12
-{
-    height: 60px;
-    width: 60px;
-    display: inline-flex;
-    border: 1px solid #34c1e5;
-}
-.a13
-{
-    height: 60px;
-    width: 60px;
-    display: inline-flex;
-    border: 1px solid #34c1e5;
-}
-.a14
-{
-    height: 60px;
-    width: 60px;
-    display: inline-flex;
-    border: 1px solid #34c1e5;
-}
-.a15
-{
-    height: 60px;
-    width: 60px;
-    display: inline-flex;
-    border: 1px solid #34c1e5;
-}
-.a16
-{
-    height: 60px;
-    width: 60px;
-    display: inline-flex;
-    border: 1px solid #34c1e5;
-}
-.a17
-{
-    height: 60px;
-    width: 60px;
-    display: inline-flex;
-    border: 1px solid #34c1e5;
-}
-.a18
-{
-    height: 60px;
-    width: 60px;
-    display: inline-flex;
-    border: 1px solid #34c1e5;
-}
-.a19
-{
-    height: 60px;
-    width: 60px;
-    display: inline-flex;
-    border: 1px solid #34c1e5;
-}
-.a20
-{
-    height: 60px;
-    width: 60px;
-    display: inline-flex;
-    border: 1px solid #34c1e5;
-}
-.a21
-{
-    height: 60px;
-    width: 60px;
-    display: inline-flex;
-    border: 1px solid #34c1e5;
-}
-.a22
-{
-    height: 60px;
-    width: 60px;
-    display: inline-flex;
-    border: 1px solid #34c1e5;
-}
-.a23
-{
-    height: 60px;
-    width: 60px;
-    display: inline-flex;
-    border: 1px solid #34c1e5;
-}
-.a24
-{
-    height: 60px;
-    width: 60px;
-    display: inline-flex;
-    border: 1px solid #34c1e5;
-}
-.a25
-{
-    height: 60px;
-    width: 60px;
-    display: inline-flex;
+    display: inline-block;
     border: 1px solid #34c1e5;
 }
 /*Designing the background of 5*5 grids background*/
 .play_area
 {
+    width:25%;
     background-color: grey;
     display: inline-block;
     height: 315px;
